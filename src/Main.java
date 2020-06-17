@@ -1,4 +1,4 @@
-package sem;
+package sem.src;
 
 import edu.princeton.cs.introcs.StdDraw;
 //import org.omg.Messaging.SYNC_WITH_TRANSPORT;
